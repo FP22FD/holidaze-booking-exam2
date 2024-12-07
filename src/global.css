@@ -1,0 +1,86 @@
+@import '@demark-pro/react-booking-calendar/dist/react-booking-calendar.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* calendar UX improvements */
+.calendar__calendar-container {
+  font-family: Poppins, sans-serif;
+}
+
+.calendar__month-content span {
+  color: #101935 !important;
+}
+
+.calendar__week-content {
+  color: #101935 !important;
+}
+
+.calendar__week-content[data-weekend='true'] {
+  color: #101935 !important;
+  font-weight: 600;
+}
+
+.calendar__calendar-container[data-scrollable]
+  .calendar__day-container[data-selected][data-start-month]
+  .calendar__day-selection,
+.calendar__calendar-container[data-scrollable]
+  .calendar__day-container[data-reserved][data-start-month]
+  .calendar__day-reservation,
+.calendar__day-container:not([data-selected]) + .calendar__day-container .calendar__day-selection,
+.calendar__day-container:not([data-reserved]) + .calendar__day-container .calendar__day-reservation {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.calendar__calendar-container[data-scrollable]
+  .calendar__day-container[data-selected][data-end-month]
+  .calendar__day-selection,
+.calendar__calendar-container[data-scrollable]
+  .calendar__day-container[data-reserved][data-end-month]
+  .calendar__day-reservation,
+.calendar__day-container[data-selected]:not(:has(+ [data-selected])) .calendar__day-selection,
+.calendar__day-container[data-reserved]:not(:has(+ [data-reserved])):not(:last-child) .calendar__day-reservation {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.calendar__day-content:not([data-reserved='true']):not([data-past='true']):not([data-selected='true']) {
+  color: #101935 !important;
+}
+
+.calendar__day-content[data-past='true'] {
+  color: #5a5e60 !important;
+  background-color: #f2f1ef;
+}
+
+.calendar__day-content[data-reserved='true'] {
+  color: #5a5e60 !important;
+}
+
+.calendar__day-content[data-selected='true'] {
+  color: #ffffff !important;
+  background-color: #000 !important;
+}
+
+.calendar__day-today {
+  color: #101935 !important;
+  border: 1px solid #101935 !important;
+}
+
+.calendar__day-selection[data-selected='true'] {
+  background-color: #000 !important;
+}
+
+.calendar__month-arrow-back {
+  color: #101935 !important;
+}
+
+.calendar__month-arrow-next {
+  color: #101935 !important;
+}
+
+.calendar__calendar-container {
+  max-width: unset;
+}
