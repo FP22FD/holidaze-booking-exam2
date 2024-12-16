@@ -1,0 +1,209 @@
+{
+    "data": [
+        {
+            "id": "607f107a-1201-4511-9804-10a5075e8c75",
+            "name": "Hotel Emy Emerson Red Star",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcndheXxlbnwwfHwwfHx8MA%3D%3D",
+                    "alt": "alt image"
+                }
+            ],
+            "price": 986,
+            "maxGuests": 8,
+            "rating": 3,
+            "created": "2024-10-18T23:44:04.977Z",
+            "updated": "2024-12-07T18:03:58.985Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 90,
+                "lng": 180
+            },
+            "owner": {
+                "name": "Emy_Emerson",
+                "email": "emyemerson@stud.noroff.no",
+                "bio": "Bassed in Oslo, Norway, I manage unique stays worldwide. From cozy cabins to luxurious retreats, I’m passionate about creating unforgettable guest experiences.",
+                "avatar": {
+                    "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "My nice avatar image"
+                },
+                "banner": {
+                    "url": "https://images.unsplash.com/photo-1507691754536-1d2b755da326?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+                    "alt": "My banner"
+                }
+            },
+            "bookings": [
+                {
+                    "id": "cf1021d4-b792-446d-9902-edd32d6f7041",
+                    "dateFrom": "2024-12-24T22:00:00.000Z",
+                    "dateTo": "2025-01-08T22:00:00.000Z",
+                    "guests": 2,
+                    "created": "2024-10-19T14:06:41.226Z",
+                    "updated": "2024-10-19T14:06:41.226Z",
+                    "customer": {
+                        "name": "book",
+                        "email": "book@stud.noroff.no",
+                        "bio": null,
+                        "avatar": {
+                            "url": "https://cdn.esawebb.org/archives/images/screen/weic2328a.jpg",
+                            "alt": ""
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "A blurry multi-colored rainbow background"
+                        }
+                    }
+                },
+                {
+                    "id": "0caf9245-e8e2-4cc3-a8ce-5e58fc058acc",
+                    "dateFrom": "2024-10-24T22:00:00.000Z",
+                    "dateTo": "2024-10-26T21:59:59.999Z",
+                    "guests": 12,
+                    "created": "2024-10-25T13:03:35.239Z",
+                    "updated": "2024-10-25T13:03:35.239Z",
+                    "customer": {
+                        "name": "oleoleole",
+                        "email": "oleoleole@stud.noroff.no",
+                        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh aaaLs",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "Testtest"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "testtest"
+                        }
+                    }
+                },
+                {
+                    "id": "7434dbad-64ff-44dd-9d59-55368fc5da20",
+                    "dateFrom": "2024-10-24T22:00:00.000Z",
+                    "dateTo": "2024-10-27T22:59:59.999Z",
+                    "guests": 12,
+                    "created": "2024-10-25T13:03:38.996Z",
+                    "updated": "2024-10-25T13:03:38.996Z",
+                    "customer": {
+                        "name": "oleoleole",
+                        "email": "oleoleole@stud.noroff.no",
+                        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh aaaLs",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "Testtest"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "testtest"
+                        }
+                    }
+                },
+                {
+                    "id": "20e4d6a6-9958-49e9-9d38-3076e4a591a5",
+                    "dateFrom": "2024-10-27T23:00:00.000Z",
+                    "dateTo": "2024-10-30T22:59:59.999Z",
+                    "guests": 12,
+                    "created": "2024-10-25T13:03:54.442Z",
+                    "updated": "2024-10-25T13:03:54.442Z",
+                    "customer": {
+                        "name": "oleoleole",
+                        "email": "oleoleole@stud.noroff.no",
+                        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh aaaLs",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "Testtest"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "testtest"
+                        }
+                    }
+                },
+                {
+                    "id": "d10e71dd-30c8-40bd-b4e7-1bc0c4576035",
+                    "dateFrom": "2024-10-30T23:00:00.000Z",
+                    "dateTo": "2024-11-02T22:59:59.999Z",
+                    "guests": 12,
+                    "created": "2024-10-25T13:03:58.985Z",
+                    "updated": "2024-10-25T13:03:58.985Z",
+                    "customer": {
+                        "name": "oleoleole",
+                        "email": "oleoleole@stud.noroff.no",
+                        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh aaaLs",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "Testtest"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                            "alt": "testtest"
+                        }
+                    }
+                },
+                {
+                    "id": "a9c0bf71-7fa5-436d-89c4-d7f4b0c02a59",
+                    "dateFrom": "2024-11-05T22:42:17.615Z",
+                    "dateTo": "2024-11-10T20:24:17.615Z",
+                    "guests": 1,
+                    "created": "2024-11-01T10:36:28.996Z",
+                    "updated": "2024-11-01T10:36:28.996Z",
+                    "customer": {
+                        "name": "Emy_Emerson",
+                        "email": "emyemerson@stud.noroff.no",
+                        "bio": "Bassed in Oslo, Norway, I manage unique stays worldwide. From cozy cabins to luxurious retreats, I’m passionate about creating unforgettable guest experiences.",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                            "alt": "My nice avatar image"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1507691754536-1d2b755da326?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+                            "alt": "My banner"
+                        }
+                    }
+                },
+                {
+                    "id": "9cbf59aa-cabe-416b-b405-8aaa53a817ff",
+                    "dateFrom": "2025-01-10T22:42:17.615Z",
+                    "dateTo": "2025-01-20T20:24:17.615Z",
+                    "guests": 2,
+                    "created": "2024-12-02T13:03:12.683Z",
+                    "updated": "2024-12-02T13:03:12.683Z",
+                    "customer": {
+                        "name": "Emy_Emerson",
+                        "email": "emyemerson@stud.noroff.no",
+                        "bio": "Bassed in Oslo, Norway, I manage unique stays worldwide. From cozy cabins to luxurious retreats, I’m passionate about creating unforgettable guest experiences.",
+                        "avatar": {
+                            "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                            "alt": "My nice avatar image"
+                        },
+                        "banner": {
+                            "url": "https://images.unsplash.com/photo-1507691754536-1d2b755da326?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+                            "alt": "My banner"
+                        }
+                    }
+                }
+            ],
+            "_count": {
+                "bookings": 7
+            }
+        }
+    ],
+    "meta": {
+        "isFirstPage": true,
+        "isLastPage": true,
+        "currentPage": 1,
+        "previousPage": null,
+        "nextPage": null,
+        "pageCount": 1,
+        "totalCount": 1
+    }
+}

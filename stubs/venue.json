@@ -1,0 +1,136 @@
+{
+    "data": {
+        "id": "6244533e-250b-456d-8aae-7c21e27db855",
+        "name": "Titanic Mardan Palace",
+        "description": "Titanic Mardan Palace welcomes you with its 5-star privilege, award-winning services and picturesque location in the unique nature of the Mediterranean.",
+        "media": [
+            {
+                "url": "https://image-tc.galaxy.tf/wijpeg-cv8mwva1bvbck8n7jwhp8p9wv/01-titanic-mardan-palace-general-view_standard.jpg?crop=196%2C0%2C1529%2C1147",
+                "alt": "Titanic Mardan Palace"
+            }
+        ],
+        "price": 200,
+        "maxGuests": 100,
+        "rating": 5,
+        "created": "2024-09-26T07:42:24.900Z",
+        "updated": "2024-09-26T07:44:54.513Z",
+        "meta": {
+            "wifi": true,
+            "parking": true,
+            "breakfast": true,
+            "pets": true
+        },
+        "location": {
+            "address": null,
+            "city": "Antalya",
+            "zip": null,
+            "country": "Turkey",
+            "continent": null,
+            "lat": 0,
+            "lng": 0
+        },
+        "owner": {
+            "name": "Fatma",
+            "email": "fatmakrtgz@stud.noroff.no",
+            "bio": null,
+            "avatar": {
+                "url": "https://images.squarespace-cdn.com/content/v1/592577372e69cfb16c774206/1573029252375-C3MJ8SIDXA38H7GYVUEP/ico_pro-01.png?format=500w",
+                "alt": "User avatar"
+            },
+            "banner": {
+                "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                "alt": "A blurry multi-colored rainbow background"
+            }
+        },
+        "bookings": [
+            {
+                "id": "2d776119-42e2-483e-bbb5-c75c9ab68490",
+                "dateFrom": "2024-09-26T22:00:00.000Z",
+                "dateTo": "2024-09-28T22:00:00.000Z",
+                "guests": 100,
+                "created": "2024-09-26T08:25:08.208Z",
+                "updated": "2024-09-26T08:25:08.208Z",
+                "customer": {
+                    "name": "semaseda",
+                    "email": "semaseda@stud.noroff.no",
+                    "bio": null,
+                    "avatar": {
+                        "url": "https://cdn.pixabay.com/photo/2018/09/14/23/28/avatar-3678347_960_720.png",
+                        "alt": ""
+                    },
+                    "banner": {
+                        "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                        "alt": "A blurry multi-colored rainbow background"
+                    }
+                }
+            },
+            {
+                "id": "7aebca26-6f11-4d36-8161-db0932e8a69f",
+                "dateFrom": "2024-09-30T22:00:00.000Z",
+                "dateTo": "2024-10-02T22:00:00.000Z",
+                "guests": 8,
+                "created": "2024-09-26T08:36:10.545Z",
+                "updated": "2024-09-26T08:36:10.545Z",
+                "customer": {
+                    "name": "Alex",
+                    "email": "Alex@stud.noroff.no",
+                    "bio": null,
+                    "avatar": {
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjSsbKVJkFsGIDI_QnHzNEB7DdRNfFvhg-g&s",
+                        "alt": "Alex's avatar"
+                    },
+                    "banner": {
+                        "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                        "alt": "A blurry multi-colored rainbow background"
+                    }
+                }
+            },
+            {
+                "id": "e4e77266-c903-4f93-b919-7ba48b776d71",
+                "dateFrom": "2024-11-22T00:00:00.000Z",
+                "dateTo": "2024-11-23T00:00:00.000Z",
+                "guests": 1,
+                "created": "2024-11-14T00:27:50.039Z",
+                "updated": "2024-11-14T00:27:50.039Z",
+                "customer": {
+                    "name": "MLS",
+                    "email": "mls123@stud.noroff.no",
+                    "bio": "Test",
+                    "avatar": {
+                        "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+                        "alt": "A blurry multi-colored rainbow background"
+                    },
+                    "banner": {
+                        "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                        "alt": "A blurry multi-colored rainbow background"
+                    }
+                }
+            },
+            {
+                "id": "3e87ac18-e797-4d74-a3b8-2909e437240a",
+                "dateFrom": "2025-01-21T00:00:00.000Z",
+                "dateTo": "2025-01-28T00:00:00.000Z",
+                "guests": 1,
+                "created": "2024-11-30T20:19:04.583Z",
+                "updated": "2024-11-30T20:19:04.583Z",
+                "customer": {
+                    "name": "sadsadsad",
+                    "email": "martin@stud.noroff.no",
+                    "bio": null,
+                    "avatar": {
+                        "url": "https://media.istockphoto.com/id/464988959/photo/mallard-duck-on-white-background.jpg?s=612x612&w=0&k=20&c=S1jcDuyXuoCVUaTobTrZ5f6SlscukkyheqKDHAeflW8=",
+                        "alt": "sadsadsad's avatar"
+                    },
+                    "banner": {
+                        "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+                        "alt": "A blurry multi-colored rainbow background"
+                    }
+                }
+            }
+        ],
+        "_count": {
+            "bookings": 4
+        }
+    },
+    "meta": {}
+}

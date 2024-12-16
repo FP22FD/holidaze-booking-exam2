@@ -1,0 +1,3458 @@
+{
+    "data": [
+        {
+            "id": "0c4d5fec-7409-45c1-bef3-36c33688d645",
+            "name": "ZZZZZZZZZZZZZZZKEBAB",
+            "description": "POLSKA GUROM",
+            "media": [
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1674596362106-521274d9e3d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.PNG",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 1410,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-11-29T23:48:47.580Z",
+            "updated": "2024-11-29T23:48:47.580Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "ZZZZZPOLANDIA",
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 44
+            }
+        },
+        {
+            "id": "561e92d1-48d1-4a43-a674-0f93b5e21bd1",
+            "name": "Zzzzeelpy Land",
+            "description": "Dreamy comfort! Zzzzleepy Land is a one-of-a-kind venue where rest and relaxation reign supreme. Whether you're a night owl seeking a cozy nook after hours, a power napper in need of a quick recharge, or just someone who appreciates the art of perfect sleep, Zzzzleepy Land has got you covered. Designed to cater to all kinds of sleep styles, it features serene sleeping pods, adjustable ambient lighting, and soothing soundscapes that guarantee the ultimate rest experience. With plush, cloud-like beds and aromatherapy options, it’s the ideal sanctuary for those who take their slumber seriously, day or night.",
+            "media": [
+                {
+                    "url": "https://dontforgettomove.com/wp-content/uploads/2014/10/hotel1.jpg",
+                    "alt": ""
+                }
+            ],
+            "price": 25,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-10-23T13:08:53.694Z",
+            "updated": "2024-11-14T13:34:39.008Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Holbersplass 2B",
+                "city": "Oslo",
+                "zip": null,
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 133
+            }
+        },
+        {
+            "id": "45ac47d2-54d3-4255-b2b8-ddd4f39885f4",
+            "name": "Zusur",
+            "description": "Super beskrivelse",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?crop=entropy&fit=crop&h=900&q=80&w=1600",
+                    "alt": "A hotel room with a bed, chair and table"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 4,
+            "rating": 0,
+            "created": "2024-09-29T17:11:44.616Z",
+            "updated": "2024-09-29T17:11:44.616Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 73
+            }
+        },
+        {
+            "id": "135198a1-6a6c-4246-8ba8-932f6aa0ae92",
+            "name": "Zusur",
+            "description": "fwfwf",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": ""
+                }
+            ],
+            "price": 2,
+            "maxGuests": 2,
+            "rating": 2,
+            "created": "2024-09-27T08:18:02.951Z",
+            "updated": "2024-09-27T10:36:39.888Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 50
+            }
+        },
+        {
+            "id": "4c57b4a9-0af9-4a6a-8ada-1782e2ddb3a7",
+            "name": "Zurrein Resort",
+            "description": "Nestled in the crystal-clear waters of the Indian Ocean, this five-star resort in the Maldives offers an unforgettable escape to paradise. With its powder-soft white sand beaches, vibrant coral reefs, and turquoise lagoons, this resort promises guests an idyllic getaway.\n\nThe resort features overwater villas and beachfront bungalows, each designed with modern luxury in mind. The overwater villas provide direct access to the ocean, offering breathtaking views of the sunset from private decks. Guests can relax in their spacious, beautifully furnished rooms, complete with open-air bathrooms, outdoor rain showers, and plunge pools for the ultimate indulgence.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 3500,
+            "maxGuests": 8,
+            "rating": 0,
+            "created": "2024-11-28T20:55:32.533Z",
+            "updated": "2024-11-28T21:00:41.167Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "Maldives",
+                "city": "the city",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 15
+            }
+        },
+        {
+            "id": "51b30f8f-2f44-4b2c-ba87-518cde2a2087",
+            "name": "Zurek Hotel",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/4608704/pexels-photo-4608704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-25T07:00:18.315Z",
+            "updated": "2024-09-25T07:00:18.315Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 32
+            }
+        },
+        {
+            "id": "59221c30-3ff3-4d1b-ba16-7187ae745b1b",
+            "name": "Zulu",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:31:39.426Z",
+            "updated": "2024-09-29T19:31:39.426Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 29
+            }
+        },
+        {
+            "id": "9794669c-3a58-4c56-9572-18f5bce6432c",
+            "name": "Zulan Hotel",
+            "description": "https://images.pexels.com/photos/3155726/pexels-photo-3155726.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/3155726/pexels-photo-3155726.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 4,
+            "rating": 5,
+            "created": "2024-09-25T07:05:38.165Z",
+            "updated": "2024-09-25T07:05:38.165Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 17
+            }
+        },
+        {
+            "id": "8e825164-bd87-49cb-bfec-bb1cd9830be9",
+            "name": "Zulafad Hotel",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/3155695/pexels-photo-3155695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:34:20.307Z",
+            "updated": "2024-09-29T19:34:20.307Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 15
+            }
+        },
+        {
+            "id": "1a7af917-d074-46be-a4fa-ab9f3758eb23",
+            "name": "Zne Hotel",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/3319704/pexels-photo-3319704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:33:51.872Z",
+            "updated": "2024-09-29T19:33:51.872Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 14
+            }
+        },
+        {
+            "id": "c7a097b5-3de8-4e43-aa80-784f5acdb458",
+            "name": "Zifone Hotel",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:33:28.560Z",
+            "updated": "2024-09-29T19:33:28.560Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 7
+            }
+        },
+        {
+            "id": "e3dcab4d-5c30-4737-952e-5b3602f4c936",
+            "name": "Zet",
+            "description": "zet",
+            "media": [
+                {
+                    "url": "https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg",
+                    "alt": "test"
+                }
+            ],
+            "price": 400,
+            "maxGuests": 10,
+            "rating": 0,
+            "created": "2024-12-12T14:31:27.650Z",
+            "updated": "2024-12-12T14:31:27.650Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": null,
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "3e51b9c0-be13-4e09-8feb-7895349fec97",
+            "name": "Zest Inn",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/297985/pexels-photo-297985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-23T20:17:24.449Z",
+            "updated": "2024-09-23T20:17:24.449Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 15
+            }
+        },
+        {
+            "id": "6947b55e-835c-410c-9046-aeef4d26e99d",
+            "name": "Zerat Hotel",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:32:11.929Z",
+            "updated": "2024-09-29T19:32:11.929Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 8
+            }
+        },
+        {
+            "id": "b4546e81-b161-4ec2-9dd8-3ae21e7b8279",
+            "name": "Zephyr Suites",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/3319701/pexels-photo-3319701.jpeg?auto=compress&cs=tinysrgb&w=1200",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-23T20:15:42.707Z",
+            "updated": "2024-09-23T20:15:42.707Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 15
+            }
+        },
+        {
+            "id": "204c14f1-e16c-4ffd-9790-a60dd84d8ba6",
+            "name": "Zenith Hotel",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/2057610/pexels-photo-2057610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 8,
+            "rating": 5,
+            "created": "2024-09-23T20:14:34.303Z",
+            "updated": "2024-09-23T20:14:34.303Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "53b7ba25-e6e0-43f4-8e63-9a69f70ecaad",
+            "name": "Zefone Hotel",
+            "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1599,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-29T19:32:40.662Z",
+            "updated": "2024-09-29T19:32:40.662Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 10
+            }
+        },
+        {
+            "id": "1fdf7377-b8a5-42eb-9e8d-09a4c0ce443a",
+            "name": "Zanarkand",
+            "description": "Zanarkand is a place in in Spira. Wakka is annoying. At least they have blitzball.",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTp7Wym_dt3gDpeY7l4acwzNY3RzlgrW-aCw&s",
+                    "alt": "A hotel room with a bed, chair and table"
+                }
+            ],
+            "price": 100,
+            "maxGuests": 6,
+            "rating": 0,
+            "created": "2024-09-29T15:24:43.773Z",
+            "updated": "2024-09-29T15:25:08.883Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "Zanarkand",
+                "zip": "",
+                "country": "Spira",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "42e97f2a-6a52-4921-a403-26abed73d386",
+            "name": "Zafiro Palace",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/2670273/pexels-photo-2670273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-23T20:18:45.520Z",
+            "updated": "2024-09-23T20:18:45.520Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "940e55bd-8c27-43b9-9a6b-65f0f1ed2c0b",
+            "name": "Zafir La Mare",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/2057610/pexels-photo-2057610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-25T06:58:48.568Z",
+            "updated": "2024-09-25T06:58:48.568Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "0c3cb408-da3e-436e-836f-5e8748f89e62",
+            "name": "wwww",
+            "description": "www",
+            "media": [],
+            "price": 100,
+            "maxGuests": 4,
+            "rating": 0,
+            "created": "2024-12-02T18:06:30.688Z",
+            "updated": "2024-12-02T18:07:07.230Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "www",
+                "city": null,
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "566d27e0-8fae-42d5-a34d-5a92a4f37ccb",
+            "name": "Wizz Hotel",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/4321553/pexels-photo-4321553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-25T06:57:29.914Z",
+            "updated": "2024-09-25T06:57:29.914Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 11
+            }
+        },
+        {
+            "id": "4b5757ce-cbe7-4b03-a01a-0686dd3dad34",
+            "name": "Winter wonderland house",
+            "description": "Come and enjoy the winter at our lovely house",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1452626212852-811d58933cae?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 250,
+            "maxGuests": 10,
+            "rating": 0,
+            "created": "2024-09-22T14:17:33.717Z",
+            "updated": "2024-09-22T14:18:16.934Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Kristiansand",
+                "zip": null,
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 17
+            }
+        },
+        {
+            "id": "8b4ba718-01ac-4abb-8b2d-b8b225dc87ee",
+            "name": "Winter mansion",
+            "description": "Winter mansion for you to enjoy",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1452626212852-811d58933cae?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Venue image"
+                },
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1680098057172-c1a73ab2c131?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Venue image"
+                },
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1686090448422-de8536066f64?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 199,
+            "maxGuests": 14,
+            "rating": 0,
+            "created": "2024-09-29T07:18:33.988Z",
+            "updated": "2024-09-29T07:19:06.196Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Kristiansand",
+                "zip": null,
+                "country": "Norge",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "da989907-eeb8-45ea-984a-8736a9b7cdc7",
+            "name": "Wintercabin",
+            "description": "Lorem",
+            "media": [
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1686090449403-43c24a6a4f79?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FiaW58ZW58MHx8MHx8fDA%3D",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 5,
+            "maxGuests": 4,
+            "rating": 0,
+            "created": "2024-11-27T19:22:57.253Z",
+            "updated": "2024-12-04T13:14:04.420Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Hytta 1",
+                "city": "Valdres",
+                "zip": "0001",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "2c5cd1f2-da10-46d3-9f73-567c2d83e157",
+            "name": "Wild Castle",
+            "description": "Be a king or a queen for a day, in the Norwegian wilderness!!",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1588557132645-ff567110cafd",
+                    "alt": "Wild Castle"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 10,
+            "rating": 0,
+            "created": "2024-11-27T21:52:19.901Z",
+            "updated": "2024-11-27T21:52:19.901Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": null,
+                "zip": "",
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "76a46bb7-7ac0-4f39-ab07-43057b7af809",
+            "name": "White house by the beach new",
+            "description": "This is a nice place to kick back and relax with friends new",
+            "media": [
+                {
+                    "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-24141820/original/36aa8104-099d-43e2-be7c-f70a253a2015.jpeg?im_w=720",
+                    "alt": "White house by the beach new"
+                }
+            ],
+            "price": 300,
+            "maxGuests": 10,
+            "rating": 0,
+            "created": "2024-09-26T10:09:53.841Z",
+            "updated": "2024-10-06T08:33:23.946Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Bergen",
+                "zip": null,
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "bb96231c-a69d-46eb-81f7-906ce392967a",
+            "name": "!waveyy",
+            "description": "waveyy",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1501436513145-30f24e19fcc8?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 100,
+            "maxGuests": 100,
+            "rating": 0,
+            "created": "2024-12-06T19:28:57.794Z",
+            "updated": "2024-12-06T20:10:42.239Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "waveyy",
+                "city": "waveyy",
+                "zip": "0001",
+                "country": "waveyy",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "d4a570d9-6763-4e06-8d78-e29ec2afb8b9",
+            "name": "Vommuli Resort",
+            "description": "Located on the secluded island of Vommuli in the Dhaalu Atoll, this luxury resort offers overwater villas and beachside suites, each with private pools and direct access to the turquoise waters. The resort is renowned for its world-class service, fine dining experiences, a signature Iridium Spa, and a variety of water activities. Its beautiful natural surroundings and exceptional amenities make it a top choice for a luxurious Maldivian getaway.",
+            "media": [
+                {
+                    "url": "https://img.freepik.com/free-photo/luxury-poolside-experience-where-guests-bask-opulence-cabanas_1268-31113.jpg?t=st=1732876172~exp=1732879772~hmac=be7f1ad617d0e4abd2895b91327bd2b65bcedafb57f97e732ae8f06660033725&w=996",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 2200,
+            "maxGuests": 6,
+            "rating": 0,
+            "created": "2024-11-29T10:30:35.524Z",
+            "updated": "2024-11-29T11:38:36.492Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "Maldives",
+                "city": "the city",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "3d549204-ee7e-4bdb-9b17-114412465ca9",
+            "name": "\"Vogue Hotel\"",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel ultricies ligula. Curabitur volutpat odio nec purus interdum, at ullamcorper felis tincidunt. Vivamus ",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/9482123/pexels-photo-9482123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-09-23T19:24:40.609Z",
+            "updated": "2024-09-23T19:24:40.609Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 12
+            }
+        },
+        {
+            "id": "bd8601de-6da9-4b0b-b1c2-214b8c8a5a70",
+            "name": "Villa Ville Kulla",
+            "description": "A villa with a pool. ",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/1700606833/photo/swimming-pool-in-backyard-exterior-of-extraordinary-luxury-home.jpg?s=2048x2048&w=is&k=20&c=FQ4Px6BC_ak7qdT4vf-2oPpm5iyy0lmWvNQMgAzSy8k=",
+                    "alt": "Uploaded image"
+                },
+                {
+                    "url": "https://media.istockphoto.com/id/1700606833/photo/swimming-pool-in-backyard-exterior-of-extraordinary-luxury-home.jpg?s=2048x2048&w=is&k=20&c=FQ4Px6BC_ak7qdT4vf-2oPpm5iyy0lmWvNQMgAzSy8k=",
+                    "alt": "Uploaded image"
+                },
+                {
+                    "url": "https://media.istockphoto.com/id/1700606833/photo/swimming-pool-in-backyard-exterior-of-extraordinary-luxury-home.jpg?s=2048x2048&w=is&k=20&c=FQ4Px6BC_ak7qdT4vf-2oPpm5iyy0lmWvNQMgAzSy8k=",
+                    "alt": "Uploaded image"
+                }
+            ],
+            "price": 8000,
+            "maxGuests": 8,
+            "rating": 0,
+            "created": "2024-11-26T21:26:13.913Z",
+            "updated": "2024-11-26T21:26:13.913Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Pippiveien 12",
+                "city": "Stockholm",
+                "zip": null,
+                "country": "Sweeden",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "68f5461d-d14a-4131-bf50-325eb7ce530b",
+            "name": "VillaVIlla",
+            "description": "Vestibulum fringilla dapibus quam, condimentum aliquet purus semper ut. Maecenas cursus cursus nulla at malesuada. Fusce ultricies ullamcorper ligula, a ultrices metus interdum in. Morbi dictum neque ipsum. Pellentesque placerat eros quis tortor dignissim, vitae fringilla libero bibendum. Praesent imperdiet condimentum luctus. Proin consequat massa nec nibh laoreet, vel maximus erat dignissim. Etiam commodo, justo et scelerisque tempus, mauris arcu ornare nunc, ac congue nunc quam sit amet nisi. Mauris accumsan dictum ipsum, sit amet laoreet augue sollicitudin eu. Ut id lectus sagittis, laci",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/682432560/photo/stunning-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=NApF0vAI8wppLkNX73wWRxXUO2nyLHCB6peu38k2rtI=",
+                    "alt": "VillaVIlla"
+                }
+            ],
+            "price": 254,
+            "maxGuests": 21,
+            "rating": 0,
+            "created": "2024-11-29T14:00:57.460Z",
+            "updated": "2024-11-29T14:00:57.460Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "villaStreet452",
+                "city": "",
+                "zip": "",
+                "country": "France",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "375a22e1-91ec-4084-ad25-8f45c28a09d5",
+            "name": "VillaVIlla",
+            "description": "Phasellus et orci non lectus sagittis pharetra vitae id tellus. Suspendisse venenatis dui ipsum, eu finibus nibh tristique at. Mauris semper nisi a nulla mollis pellentesque eu sed nunc. Nullam vitae nisi elit. Morbi consequat scelerisque ligula. Sed dictum, neque at sodales porttitor, elit ante fringilla tellus, quis volutpat velit odio eget ipsum. Donec elementum in velit a venenatis. Nullam nec risus semper, feugiat velit sed, sodales turpis. Donec vitae lectus vel eros facilisis tincidunt at eu dolor. Suspendisse sit amet felis et mauris varius molestie. Aenean ultrice",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/682432560/photo/stunning-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=NApF0vAI8wppLkNX73wWRxXUO2nyLHCB6peu38k2rtI=",
+                    "alt": "VillaVIlla"
+                }
+            ],
+            "price": 473,
+            "maxGuests": 12,
+            "rating": 0,
+            "created": "2024-11-29T14:02:23.287Z",
+            "updated": "2024-11-29T14:02:23.287Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testStreet",
+                "city": "",
+                "zip": "",
+                "country": "France",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "4b65e60e-adcf-4210-9679-1fa6d8383416",
+            "name": "Villa So",
+            "description": "Nice villa",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 3453,
+            "maxGuests": 56,
+            "rating": 5,
+            "created": "2024-08-21T09:19:19.981Z",
+            "updated": "2024-08-21T09:19:19.981Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Villastreet 22",
+                "city": "Oslo",
+                "zip": "4545",
+                "country": "Norway",
+                "continent": "Europe",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 34
+            }
+        },
+        {
+            "id": "789723bd-3394-4756-aa68-eeeb14772f83",
+            "name": "Villa Paradiso",
+            "description": "Wow",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1717167398882-15d1cefd22f6?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 9999,
+            "maxGuests": 14,
+            "rating": 5,
+            "created": "2024-08-21T10:30:40.636Z",
+            "updated": "2024-08-21T10:30:40.636Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Wow street 4",
+                "city": "Cape Town",
+                "zip": "9987",
+                "country": "South Africa",
+                "continent": "Africa",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 12
+            }
+        },
+        {
+            "id": "988a24d4-1456-4b88-a3cc-c8d346be7f93",
+            "name": "Villa in Ubud",
+            "description": "Escape to paradise in this stunning villa located in the heart of Bali, where tranquility meets luxury. Nestled amidst lush greenery, this spacious retreat features a private pool surrounded by tropical gardens, offering the perfect spot for relaxation and rejuvenation. The villa boasts elegant interiors with modern amenities, a fully equipped kitchen, and open living spaces that seamlessly blend with the natural surroundings. Whether you're lounging by the pool, enjoying a sunset on the terrace, or exploring the vibrant culture of Bali, this villa is your ultimate sanctuary. Ideal for families, couples, or groups looking for a peaceful getaway, it promises an unforgettable island experience.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1728049006379-f1f2c3dbb910?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Image of Villa in Ubud"
+                },
+                {
+                    "url": "https://images.unsplash.com/photo-1728048756766-55208c6feb87?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Image of Villa in Ubud"
+                }
+            ],
+            "price": 1099,
+            "maxGuests": 10,
+            "rating": 5,
+            "created": "2024-12-08T14:20:00.829Z",
+            "updated": "2024-12-08T14:20:00.829Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "Jl. Raya Ubud No. 88",
+                "city": "Ubud",
+                "zip": "80571",
+                "country": "Indonesia",
+                "continent": "Asia",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "7ac49ea7-d767-4803-b93c-78bf02d1b76d",
+            "name": "Villa in Cyprus",
+            "description": "This villa in the mountains of Paphos is the perfect getaway for a holiday. It has everything you need, and is located close to some amazing hiking trails. ",
+            "media": [
+                {
+                    "url": "https://cdn.pixabay.com/photo/2016/10/13/09/06/cyprus-villas-1737166_960_720.jpg",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 350,
+            "maxGuests": 10,
+            "rating": 4,
+            "created": "2024-09-27T11:19:43.713Z",
+            "updated": "2024-09-28T15:55:58.934Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Paphos",
+                "zip": null,
+                "country": "Cyprus",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "8b8b6396-c23b-496f-a764-aefb2211b80f",
+            "name": "Villa Hilla",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "media": [
+                {
+                    "url": "https://i.imgur.com/UEGlbVU.jpeg",
+                    "alt": ""
+                }
+            ],
+            "price": 100,
+            "maxGuests": 6,
+            "rating": 0,
+            "created": "2024-09-24T12:52:05.112Z",
+            "updated": "2024-09-24T12:52:05.112Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "752b3772-94d5-47e4-923c-7f6c7bc102dd",
+            "name": "Villa Chilla",
+            "description": "Huge pool",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1724089804077-62ca336256b0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Nice house"
+                }
+            ],
+            "price": 7777,
+            "maxGuests": 3,
+            "rating": 5,
+            "created": "2024-08-21T10:28:09.336Z",
+            "updated": "2024-08-21T10:28:09.336Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "Street 18",
+                "city": "Barcelona",
+                "zip": "9559",
+                "country": "Spain",
+                "continent": "Europe",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 13
+            }
+        },
+        {
+            "id": "a51ad219-61eb-4acf-8b6b-4d529edad5ac",
+            "name": "Very Cool Nest",
+            "description": "Very very cool nest that I made myself for my wife and kids but you can borrow it. I stole dog fur from all around the area to keep it warm and cozy. Help yourself to any worms laying around.",
+            "media": [
+                {
+                    "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/05/050922_ec_nest_feat_rev.jpg",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 69,
+            "maxGuests": 4,
+            "rating": 0,
+            "created": "2024-11-30T17:12:27.952Z",
+            "updated": "2024-11-30T17:12:27.952Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "That one tree in the cool park in Oslo",
+                "city": null,
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "3ead6f6c-5d52-4dba-8389-2a06029b61bf",
+            "name": "Veri Small bridge 2",
+            "description": "Bring camping gear",
+            "media": [
+                {
+                    "url": "https://picsum.photos/id/76/500/300",
+                    "alt": ""
+                }
+            ],
+            "price": 45,
+            "maxGuests": 12,
+            "rating": 0,
+            "created": "2024-11-30T23:49:17.569Z",
+            "updated": "2024-11-30T23:49:17.569Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "Gjøvikveien 1",
+                "city": null,
+                "zip": "123",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "c912b712-ab49-4048-8372-0686d2483806",
+            "name": "Veri nice shed",
+            "description": "veri venue",
+            "media": [
+                {
+                    "url": "https://picsum.photos/id/76/500/300",
+                    "alt": ""
+                }
+            ],
+            "price": 5,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-11-30T19:10:56.073Z",
+            "updated": "2024-12-01T21:04:25.409Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "Gjøvikveien 2",
+                "city": null,
+                "zip": "2823",
+                "country": "Sweeden",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "b6bc51ef-e30c-415f-8470-62a3b476c327",
+            "name": "Varrock Palace",
+            "description": "Royal castle",
+            "media": [
+                {
+                    "url": "https://runescape.wiki/images/thumb/Varrock_Palace.png/1200px-Varrock_Palace.png?67777",
+                    "alt": "Beautiful"
+                }
+            ],
+            "price": 45,
+            "maxGuests": 16,
+            "rating": 0,
+            "created": "2024-12-01T15:18:01.782Z",
+            "updated": "2024-12-01T15:18:01.782Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Misthalinveien 15",
+                "city": "Varrock",
+                "zip": "Misthalin",
+                "country": "Gielinor",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "6c44d7e2-d363-4f8c-b5d1-6813767b2d4b",
+            "name": "Vaikuntha",
+            "description": "Vishnus abode. Eternal bliss.",
+            "media": [
+                {
+                    "url": "https://i.pinimg.com/564x/3f/ef/9a/3fef9afe80bf4dabf2ee3a806d6d85e0.jpg",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 1111,
+            "maxGuests": 4,
+            "rating": 4.5,
+            "created": "2024-09-24T17:52:30.618Z",
+            "updated": "2024-09-29T12:10:56.881Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Vaikuntha",
+                "city": "Vaikuntha",
+                "zip": null,
+                "country": "Vaikuntha",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "595543ff-e4d8-4703-b996-80b129519332",
+            "name": "Unwanted Lighthouse",
+            "description": "While this lighthouse might be unnamed, the potential time you might have around here is still to be written! Enjoy a magnificent view of the ocean and smell the fresh sea air for yourself!",
+            "media": [
+                {
+                    "url": "https://fastly.picsum.photos/id/58/1280/853.jpg?hmac=YO3QnOm9TpyM5DqsJjoM4CHg8oIq4cMWLpd9ALoP908",
+                    "alt": "Unwanted Lighthouse image"
+                }
+            ],
+            "price": 19,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-11-27T16:19:14.226Z",
+            "updated": "2024-12-01T15:06:29.602Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "Lighthouse 5",
+                "city": "Lindesnes",
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "4ca73dfb-f226-4d1a-87ed-56892b117030",
+            "name": "Unique HangingTree House",
+            "description": "A Unique HangingTree House located in the woods in Dalarna, Sweden. The tree house can be found hanging between two huge trees and is a wonderful place to truly feel away from it all. The rental can sleep two guests as there is a double bed inside, although one additional youngster can sleep on the twin bed that folds out from the couch if necessary. The rental is kept toasty warm, despite the setting up in the trees, thanks to the fireplace inside that burns real wood and there is also underfloor heating installed.\n\nGuests will also have access to the communal living space on the property during their vacation. Here, there are full bathroom facilities and also a kitchen space where guests can prepare meals. Breakfast and dinner provisions are provided and there is plenty of dining space available both inside and out.\n\nGuests will have no trouble making themselves at home during a stay in this property. Linens and towels are provided and guests can also take advantage of the maid service. To keep guests cozy, there is both a heater and underfloor heating installed.\n\nOutside, guests can enjoy grilling on the BBQ while soaking in views of the forest from the terrace. There are also various communal spaces for guests to make the most of, including a small swimming pool, a play area, and a trampoline for younger guests to enjoy.",
+            "media": [
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/unique-hanging-tree-house-rental-for-an-unforgettable-vacation-in-1550144213349/8d99f419ea6efb4a729f7e15c0d75214.jpg",
+                    "alt": ""
+                },
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/unique-hanging-tree-house-rental-for-an-unforgettable-vacation-in-1550145328433/a4d6cce9d654af414ae21dada30d2cfd.jpg",
+                    "alt": ""
+                },
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/unique-hanging-tree-house-rental-for-an-unforgettable-vacation-in-1550145328375/fd0f64c61d74749023a3a2612efe8eaa.jpg",
+                    "alt": ""
+                },
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/nasets-marcusgard-supermne-treehouse-1542103555489/34f42e572c453acfb8a25cfec44a7ef1.jpg",
+                    "alt": ""
+                },
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/nasets-marcusgard-supermne-treehouse-1542103555507/a7807fcc15d5225c2c4df288ff19efc5.jpg",
+                    "alt": ""
+                },
+                {
+                    "url": "https://media.glampinghub.com/CACHE/images/accommodations/nasets-marcusgard-supermne-treehouse-1542103555540/d302e749ad50ee15563632d636e8dbc9.jpg",
+                    "alt": ""
+                }
+            ],
+            "price": 377,
+            "maxGuests": 2,
+            "rating": 5,
+            "created": "2024-11-10T15:39:07.722Z",
+            "updated": "2024-11-30T16:39:48.070Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "Dalarna",
+                "zip": "",
+                "country": "Sweden",
+                "continent": "europe",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "654a4c0b-15a0-4cec-8623-46578765667b",
+            "name": "Unique beach vibes",
+            "description": "yes, very nice",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "so nice"
+                },
+                {
+                    "url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "extra nicee"
+                }
+            ],
+            "price": 1200,
+            "maxGuests": 2,
+            "rating": 5,
+            "created": "2024-12-01T16:28:17.992Z",
+            "updated": "2024-12-01T16:28:17.992Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "103 Chiquita",
+                "city": "Tulum",
+                "zip": "1010",
+                "country": "Mexico",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "57e97110-1ec4-4891-a878-04d20d2403b4",
+            "name": "uiuhkjnkn",
+            "description": "khkljkvhgvkhgv",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp3PtjxSNeQSKOy-iyHc1mhcfJ43LiWvTIfQ&s",
+                    "alt": "Venue Image"
+                }
+            ],
+            "price": 26,
+            "maxGuests": 17,
+            "rating": 0,
+            "created": "2024-11-27T15:22:51.245Z",
+            "updated": "2024-11-29T16:08:15.773Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "jhbkvhgvkjh",
+                "city": null,
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "188e4986-fd16-482d-87e3-d5837c44ee1c",
+            "name": "Trump International Hotel",
+            "description": "Sleepy Joe's favorite hotel",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1649030889857-842033955c09?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 999,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-11-15T19:30:56.996Z",
+            "updated": "2024-11-15T19:30:56.996Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "New York",
+                "zip": null,
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "462c5102-e630-4a8c-857f-82de72a9c724",
+            "name": "TreHomeVenue",
+            "description": "Here you can find so many trees! pink once",
+            "media": [
+                {
+                    "url": "https://images.squarespace-cdn.com/content/v1/5fbd188786a37e63805cbf6f/bbeebbf8-33fa-4660-83f0-7b6dd330a23b/top-toronto-wedding-venues-four-seasons-hotel.jpg",
+                    "alt": "TreHomeVenue"
+                }
+            ],
+            "price": 885,
+            "maxGuests": 22,
+            "rating": 0,
+            "created": "2024-11-29T13:23:34.482Z",
+            "updated": "2024-11-29T13:23:34.482Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "Island",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "95ca436a-abe3-4e33-a3ce-5299bd2e78ed",
+            "name": "Treehouse",
+            "description": "An escape from everyday business and distractions of life. Get in touch with nature and relax.",
+            "media": [
+                {
+                    "url": "https://images.squarespace-cdn.com/content/v1/65cd0482d3c59114f98ec0de/f6a805af-75e0-4941-bb67-d05d698eab96/THP_HomepageHero.jpg",
+                    "alt": ""
+                }
+            ],
+            "price": 1790,
+            "maxGuests": 6,
+            "rating": 0,
+            "created": "2024-09-24T10:42:44.177Z",
+            "updated": "2024-09-24T10:42:44.177Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "Stavanger",
+                "city": null,
+                "zip": null,
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "e09c3748-b352-4717-bcfb-374523b7a896",
+            "name": "Tobias Hotell",
+            "description": "10/10 best hotell",
+            "media": [
+                {
+                    "url": "https://travelnevada.com/wp-content/uploads/2020/04/original-shadymotel1-sm.jpg",
+                    "alt": "Tobias Hotel"
+                }
+            ],
+            "price": 5990,
+            "maxGuests": 20,
+            "rating": 0,
+            "created": "2024-11-27T21:26:28.333Z",
+            "updated": "2024-11-27T21:26:28.333Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "Tønsberg",
+                "zip": "",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "6244533e-250b-456d-8aae-7c21e27db855",
+            "name": "Titanic Mardan Palace",
+            "description": "Titanic Mardan Palace welcomes you with its 5-star privilege, award-winning services and picturesque location in the unique nature of the Mediterranean.",
+            "media": [
+                {
+                    "url": "https://image-tc.galaxy.tf/wijpeg-cv8mwva1bvbck8n7jwhp8p9wv/01-titanic-mardan-palace-general-view_standard.jpg?crop=196%2C0%2C1529%2C1147",
+                    "alt": "Titanic Mardan Palace"
+                }
+            ],
+            "price": 200,
+            "maxGuests": 100,
+            "rating": 5,
+            "created": "2024-09-26T07:42:24.900Z",
+            "updated": "2024-09-26T07:44:54.513Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Antalya",
+                "zip": null,
+                "country": "Turkey",
+                "continent": null,
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "1cdb1464-132b-4124-b470-7079be74d67c",
+            "name": "thisisjustatest",
+            "description": "testdescriotuiongoeshere",
+            "media": [],
+            "price": 100,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-12-01T18:53:20.714Z",
+            "updated": "2024-12-01T18:53:20.714Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": null,
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "caf0fdd6-dc27-4270-a771-503b010f7ffa",
+            "name": "this is a venue",
+            "description": "this is a random description",
+            "media": [],
+            "price": 11,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-19T03:49:23.915Z",
+            "updated": "2024-11-20T08:16:45.870Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": null,
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "cee0173a-9051-4af2-a19d-6044344192fc",
+            "name": "The venue of dragon",
+            "description": "The Venue of the Dragon sits atop a jagged mountain, an ancient fortress carved from volcanic stone. Its spires pierce the sky, adorned with dragon gargoyles, while massive obsidian doors inlaid with golden scales mark its grand entrance.",
+            "media": [
+                {
+                    "url": "https://cdn0.hitched.co.uk/vendor/0163/3_2/960/jpg/perfectposephotography-37_4_320163-172379759014427.jpeg",
+                    "alt": "image of the venue "
+                },
+                {
+                    "url": "https://www.theweddingsecret.co.uk/magazine/wp-content/uploads/dragon-hall-feature-image.jpg",
+                    "alt": "image to "
+                },
+                {
+                    "url": "https://agnt.com/blog/wp-content/uploads/2024/09/Burnabys-Best-Indoor-Wedding-Venues.png",
+                    "alt": "adsa fwg w wfas d "
+                }
+            ],
+            "price": 5000,
+            "maxGuests": 98,
+            "rating": 0,
+            "created": "2024-11-26T18:20:16.755Z",
+            "updated": "2024-11-26T18:22:26.307Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Gjeilevegen 32",
+                "city": "Hiway",
+                "zip": "1212AS",
+                "country": "Yesway",
+                "continent": "Noway",
+                "lat": 80,
+                "lng": 87
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "8751cd76-489e-4195-8837-8f860bf21e15",
+            "name": "The Sky Nest",
+            "description": "The Sky nest is a beautiful tall treehouse in a middle of a large grass field",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1636965876082-a9d8337efd0f?q=80&w=2673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Tall Treehouse in grass field"
+                }
+            ],
+            "price": 400,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-12-07T21:11:17.937Z",
+            "updated": "2024-12-07T21:11:17.937Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": null,
+                "country": "France",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "bfa54e0b-f474-44cb-b171-7b56f85b0b24",
+            "name": "The Savoy",
+            "description": "An art deco masterpiece with unparalleled service and Thames River views.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1664051947785-f5c1dee64e89?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 800,
+            "maxGuests": 8,
+            "rating": 0,
+            "created": "2024-11-15T20:25:00.163Z",
+            "updated": "2024-11-15T20:25:00.163Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "London",
+                "zip": null,
+                "country": "England",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "6db49f71-97ad-48f0-9062-435037c4ce03",
+            "name": "The Ritz Paris",
+            "description": "A historic palace hotel offering opulent rooms, Michelin-starred dining, and legendary cocktails at the Hemingway Bar.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1541628951107-a9af5346a3e4?q=80&w=1889&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 4,
+            "rating": 0,
+            "created": "2024-11-15T20:17:51.626Z",
+            "updated": "2024-11-15T20:17:51.626Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Paris",
+                "zip": null,
+                "country": "France",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "a2690c68-1dd1-4322-80fe-497672006578",
+            "name": "The Plaza Hotel",
+            "description": "An American landmark, known for its timeless luxury and prime location by Central Park.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1625558403310-9573f7613f51?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 900,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-11-15T20:21:12.229Z",
+            "updated": "2024-11-15T20:21:12.229Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "New York City",
+                "zip": null,
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "57c64582-1b17-4cdc-9c0e-9ecf02ba3b10",
+            "name": "The North Pole Hotel",
+            "description": "Enjoy a vacation full of nothern lights, hot cocoa and iceskating. Who knows, maybe you'll even get to se a polar bear. ",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1515767160065-1733c5eb680f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Default image alt"
+                },
+                {
+                    "url": "https://images.unsplash.com/photo-1515767160065-1733c5eb680f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Hotel in snow mountain"
+                }
+            ],
+            "price": 6000,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-28T16:53:33.054Z",
+            "updated": "2024-11-28T17:08:57.146Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "North Pole 10",
+                "city": "North Pole",
+                "zip": "0000",
+                "country": "North Pole",
+                "continent": "North Pole",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "03e74b42-444d-4025-984e-278cdb3e47b4",
+            "name": "The Lannisters",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "media": [
+                {
+                    "url": "https://i.imgur.com/1G8Jdx0.jpeg",
+                    "alt": ""
+                }
+            ],
+            "price": 200,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-09-26T12:06:33.816Z",
+            "updated": "2024-09-27T17:44:21.374Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": null,
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "c2b9af57-4bff-48bf-9963-7c570c49b7e6",
+            "name": "The Land of Legends Kingdom Hotel",
+            "description": "Features:\n\nLuxurious rooms with a fantasy theme tailored for families and kids.\nAccess to a massive water park with slides, pools, and dolphin shows.\nA theme park offering roller coasters and interactive experiences.\nFine dining restaurants serving Turkish and international cuisine.\nSpa and wellness facilities for relaxation.\nNightly entertainment, including live shows and parades.",
+            "media": [
+                {
+                    "url": "https://img.freepik.com/free-photo/businessman-arriving-hotel-lobby_482257-90552.jpg?t=st=1732993506~exp=1732997106~hmac=798a22920115f9c735aa4ea8d11773f36727ed2d3fdc7daae6d0269965642a18&w=826",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 3200,
+            "maxGuests": 10,
+            "rating": 0,
+            "created": "2024-11-30T19:05:51.147Z",
+            "updated": "2024-11-30T19:06:00.339Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Belek, Antalya, Turkey",
+                "city": "the city",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "0dc31b85-1a74-4d6a-bc0f-2896ed3108f0",
+            "name": "The HoliStay Resort",
+            "description": "HoliStay Resort is awesome.",
+            "media": [
+                {
+                    "url": "https://project-exam2.netlify.app/assets/holistayLogo.png",
+                    "alt": "A globe"
+                }
+            ],
+            "price": 24,
+            "maxGuests": 23,
+            "rating": 3,
+            "created": "2024-12-10T13:58:45.462Z",
+            "updated": "2024-12-10T13:58:45.462Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": null,
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "fb42c03e-3dd0-479e-b705-8fcc98012045",
+            "name": "The Grande Maison Royale",
+            "description": "Whether you're relaxing in the library lounge with its roaring fireplace or sipping champagne in the courtyard, the Grande Maison Royale offers an atmosphere of timeless elegance.\n\nPerfect for discerning travelers, this luxurious gem in Belgium ensures every moment feels special.",
+            "media": [
+                {
+                    "url": "https://img.freepik.com/free-photo/umbrella-chair_74190-3726.jpg?t=st=1732897516~exp=1732901116~hmac=8c64bcb16283d99d10c9bb65b1ec41709250b1998c1b17271fee6b8fedd5571a&w=826",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 1500,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T16:27:29.242Z",
+            "updated": "2024-11-29T16:27:29.242Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Bruges, Belgium",
+                "city": "the city",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "1ea22d02-0936-45d0-887f-0369bfc8a2e8",
+            "name": "The Dome Hotel",
+            "description": "A lovely beach hotel with dome apartments by the pool. Enjoy the tropical setting with a cocktail while lounging in the sun",
+            "media": [
+                {
+                    "url": "https://www.m-boe.com/wp-content/uploads/2024/11/natalia-blauth-9AKdEIUui5o-unsplash-scaled.jpg",
+                    "alt": "Dome apartments by a pool"
+                }
+            ],
+            "price": 150,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-11-13T21:49:17.191Z",
+            "updated": "2024-11-26T17:57:04.896Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "Sticksville",
+                "zip": null,
+                "country": "Nowhere",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "4efd7238-9a9a-4656-9d44-cd9b221a7f26",
+            "name": "The Beverly Hills Hotel",
+            "description": "Also known as “The Pink Palace,” it’s a celebrity hotspot in LA with iconic palm-lined views.",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": ""
+                }
+            ],
+            "price": 900,
+            "maxGuests": 7,
+            "rating": 0,
+            "created": "2024-11-15T20:28:01.594Z",
+            "updated": "2024-11-15T20:28:01.594Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Los Angeles",
+                "zip": null,
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "9a2e551d-430d-4877-8cd5-120c80121af5",
+            "name": "The A-frame",
+            "description": "Enjoy a cozy weekend at Mrs Claus favourite hiding place. Guarenteed no elves will find you here!",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1597697349091-cc9ccb2b4241?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "alt": "Default image alt"
+                }
+            ],
+            "price": 3999,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-11-30T10:30:05.556Z",
+            "updated": "2024-11-30T10:30:05.556Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "North Woods 200",
+                "city": "North Pole",
+                "zip": "0000",
+                "country": "North Pole",
+                "continent": "North Pole",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "cb8c56ef-8ab0-4e70-8c46-6b3a31f3eb4e",
+            "name": "Thatch hotel",
+            "description": "Thatch roof hotel is a beautiful local site hotel with nice quiet costal environment.",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/470993113/photo/building-in-tropics.jpg?s=2048x2048&w=is&k=20&c=xM0Zy0F2GX3bHg_x0dEXwtOqFIXXKHA6Pv7JiDtLBog=",
+                    "alt": "Thatch hotel "
+                }
+            ],
+            "price": 1100,
+            "maxGuests": 40,
+            "rating": 5,
+            "created": "2024-09-07T11:37:47.824Z",
+            "updated": "2024-09-07T11:37:47.824Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": false
+            },
+            "location": {
+                "address": "Kribi costal",
+                "city": "Kribi",
+                "zip": "",
+                "country": "Cameroon",
+                "continent": "Africa",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 6
+            }
+        },
+        {
+            "id": "3911aafd-4606-4426-ba79-ed45149883bf",
+            "name": "testingHouse!!",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse!!"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:44.846Z",
+            "updated": "2024-12-01T22:17:39.227Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": "",
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "cf435333-beaa-431c-ae36-d99154a0fba4",
+            "name": "testingHouse!",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse!"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:49.708Z",
+            "updated": "2024-12-01T19:41:34.746Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": "",
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "6dafbe09-b1f6-42f7-98a1-4e8adea681a0",
+            "name": "testingHouse!",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse!"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:31:18.507Z",
+            "updated": "2024-12-02T00:00:17.744Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": "",
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "f960f0cd-433b-4667-8dba-6fefeb49284f",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:44.848Z",
+            "updated": "2024-11-29T13:33:44.848Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "b80f1a90-b219-462e-8a16-8c8a3b904c33",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:49.711Z",
+            "updated": "2024-11-29T13:33:49.711Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "e01cd9dd-cebf-4b5b-b27e-a5b0c45205a0",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:32:22.802Z",
+            "updated": "2024-11-29T13:32:22.802Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "13ee420b-b4d5-4f52-b254-ff3d9a4b2075",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:32:22.837Z",
+            "updated": "2024-11-29T13:32:22.837Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "c6067622-c6f0-48ad-b5bb-381da2ac5cce",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:31:18.511Z",
+            "updated": "2024-11-29T13:31:18.511Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "8b2b56aa-24d1-4d2a-ad94-0a2ec6506e1b",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:19.080Z",
+            "updated": "2024-11-29T13:33:19.080Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "143aadd5-dff3-44e6-a04b-a8cdf58870c9",
+            "name": "testingHouse",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvwJhBomI6gTI9z9Mju15avN_EhWGUis5ag&s",
+                    "alt": "testingHouse"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 5,
+            "rating": 0,
+            "created": "2024-11-29T13:33:19.179Z",
+            "updated": "2024-11-29T13:33:19.179Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "f77b0fe5-8d5f-4bd9-9c60-fede95e1a638",
+            "name": "Testing Create test 2 update VICTORIA",
+            "description": "gnf",
+            "media": [
+                {
+                    "url": "https://picsum.photos/id/29/4000/2670",
+                    "alt": "alt text"
+                }
+            ],
+            "price": 444,
+            "maxGuests": 5,
+            "rating": 5,
+            "created": "2024-11-28T20:38:17.647Z",
+            "updated": "2024-12-01T06:31:37.747Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "Adres",
+                "city": "city",
+                "zip": null,
+                "country": "country",
+                "continent": "continent",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 8
+            }
+        },
+        {
+            "id": "55558d9b-e8cd-493b-bdb8-0d2797615a08",
+            "name": "testing again",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/474592866/photo/house-in-construction.jpg?s=612x612&w=0&k=20&c=M76SVFStDoOeadCbnwTsj5jDAnegWG08NCAULe_eleY=",
+                    "alt": "testing again"
+                }
+            ],
+            "price": 57,
+            "maxGuests": 7,
+            "rating": 0,
+            "created": "2024-11-29T12:22:47.433Z",
+            "updated": "2024-11-29T12:22:47.433Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "Sweeden",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "eed1c128-e9f0-4812-8abd-7c15c84a176f",
+            "name": "testing again",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/682432560/photo/stunning-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=NApF0vAI8wppLkNX73wWRxXUO2nyLHCB6peu38k2rtI=",
+                    "alt": "testing again"
+                }
+            ],
+            "price": 7,
+            "maxGuests": 24,
+            "rating": 0,
+            "created": "2024-11-30T12:29:39.983Z",
+            "updated": "2024-11-30T14:36:00.141Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "3441e347-d147-44db-a3d1-c94406177205",
+            "name": "testing again",
+            "description": "Maybe we can delete this venue",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/474592866/photo/house-in-construction.jpg?s=612x612&w=0&k=20&c=M76SVFStDoOeadCbnwTsj5jDAnegWG08NCAULe_eleY=",
+                    "alt": "testing again"
+                }
+            ],
+            "price": 8,
+            "maxGuests": 40,
+            "rating": 0,
+            "created": "2024-11-29T12:34:30.763Z",
+            "updated": "2024-11-29T12:34:30.763Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "CityName",
+                "zip": null,
+                "country": "CountryName",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "b373618d-29d5-4fa8-8d95-e84ce5a0dc81",
+            "name": "testing again",
+            "description": "Testing to get this to work",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/682432560/photo/stunning-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=NApF0vAI8wppLkNX73wWRxXUO2nyLHCB6peu38k2rtI=",
+                    "alt": "testing again"
+                }
+            ],
+            "price": 124,
+            "maxGuests": 33,
+            "rating": 0,
+            "created": "2024-11-30T13:35:55.867Z",
+            "updated": "2024-11-30T13:35:55.867Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "testLand",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "eb184c88-8e79-49b1-a897-c361aa08209a",
+            "name": "testing",
+            "description": "what si wrong",
+            "media": [
+                {
+                    "url": "https://picsum.photos/id/59/2464/1632",
+                    "alt": "dc"
+                }
+            ],
+            "price": 6555,
+            "maxGuests": 4,
+            "rating": 5,
+            "created": "2024-12-01T20:41:34.138Z",
+            "updated": "2024-12-01T20:43:52.621Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "sc",
+                "city": "sc",
+                "zip": null,
+                "country": "",
+                "continent": "",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "0dabc9e2-2475-45fc-9ef3-74229ec0f362",
+            "name": "testing",
+            "description": "testing.com yes lets go",
+            "media": [
+                {
+                    "url": "https://docs.noroff.dev/docs/v2/auth/register",
+                    "alt": "Venue image"
+                }
+            ],
+            "price": 100,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-09-24T10:27:00.299Z",
+            "updated": "2024-09-24T10:27:00.299Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "KRISTIANSAND S",
+                "zip": null,
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "8d2d0eff-71f1-4aaf-9e53-f64048d311a0",
+            "name": "Test hotel",
+            "description": "Test hotel",
+            "media": [
+                {
+                    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ed/95/07/limak-eurasia-luxury.jpg?w=700&h=-1&s=1",
+                    "alt": "Test hotel"
+                }
+            ],
+            "price": 750,
+            "maxGuests": 20,
+            "rating": 0,
+            "created": "2024-12-01T15:36:44.798Z",
+            "updated": "2024-12-01T15:36:44.798Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "1c56999e-2bba-44f0-8cb0-de7900d8ae17",
+            "name": "Test hotel",
+            "description": "Test hotel",
+            "media": [
+                {
+                    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ed/95/07/limak-eurasia-luxury.jpg?w=700&h=-1&s=1",
+                    "alt": "Test hotel"
+                }
+            ],
+            "price": 750,
+            "maxGuests": 20,
+            "rating": 0,
+            "created": "2024-12-01T15:36:35.245Z",
+            "updated": "2024-12-01T15:36:35.245Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "92bfec33-4edf-43bb-b86b-56f89c87eae9",
+            "name": "testet",
+            "description": "etstest",
+            "media": [
+                {
+                    "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTM3MDU3MDE2ODg1NzA1Nzg5/original/83390d74-ec8a-4a7b-aebb-8db68cf6497b.jpeg?im_w=1200",
+                    "alt": "testet"
+                }
+            ],
+            "price": 123,
+            "maxGuests": 12,
+            "rating": 0,
+            "created": "2024-12-01T18:35:30.287Z",
+            "updated": "2024-12-01T18:35:30.287Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": null,
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "61b3c1b2-d128-46f9-9b4a-11ea9d333b80",
+            "name": "test321",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/1920780160/photo/african-american-family-petting-dog-in-back-yard.webp?s=2048x2048&w=is&k=20&c=wXHKr5N82WSRiy6NVBsMTHU2SI-3RsLj1OkCVOcgLGI=",
+                    "alt": ""
+                }
+            ],
+            "price": 41,
+            "maxGuests": 13,
+            "rating": 0,
+            "created": "2024-11-30T17:35:25.700Z",
+            "updated": "2024-11-30T17:35:25.700Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": null,
+                "zip": null,
+                "country": null,
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "c04f30dd-1e28-4b9e-bde4-90fef30fc7ee",
+            "name": "test123",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://media.istockphoto.com/id/1979951980/photo/my-cat-is-my-best-painting-friend.jpg?s=2048x2048&w=is&k=20&c=ecC9hSr5UKx1j4KvyKJy0k3XdkaiOwds4oWkwXIL4c8=",
+                    "alt": ""
+                }
+            ],
+            "price": 1,
+            "maxGuests": 1,
+            "rating": 0,
+            "created": "2024-11-28T18:02:53.493Z",
+            "updated": "2024-11-28T18:02:53.493Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "test",
+                "city": "test",
+                "zip": "test",
+                "country": "test",
+                "continent": "test",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 5
+            }
+        },
+        {
+            "id": "7ca55a0f-bb9f-4f98-ace7-7d069b3d17ba",
+            "name": "Test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?crop=entropy&fit=crop&h=900&q=80&w=1600",
+                    "alt": "A hotel room with a bed, chair and table"
+                }
+            ],
+            "price": 123,
+            "maxGuests": 2,
+            "rating": 0,
+            "created": "2024-12-01T16:55:48.165Z",
+            "updated": "2024-12-01T16:55:48.165Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "bd69f9b5-1493-4770-bea6-b5aa9996f31c",
+            "name": "Test",
+            "description": "Cozy test cabin",
+            "media": [
+                {
+                    "url": "https://coventryloghomes.com/wp-content/uploads/2020/04/Getaway-2-scaled.jpg",
+                    "alt": "Cozy cabin"
+                }
+            ],
+            "price": 1200,
+            "maxGuests": 8,
+            "rating": 0,
+            "created": "2024-11-26T19:08:00.280Z",
+            "updated": "2024-11-26T19:08:00.280Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "Norway",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "227e89ff-7ee5-423b-9a3a-781f51d857f9",
+            "name": "Test",
+            "description": "Testing",
+            "media": [
+                {
+                    "url": "https://www.travelandleisure.com/thmb/6b_mZCfR8S3HExzh_lCgd3OSuYI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blancaneaux-lodge-RAINFRSTHOTEL0122-757df885300f403d900bc3a9448c311d.jpg",
+                    "alt": "Test"
+                }
+            ],
+            "price": 200,
+            "maxGuests": 3,
+            "rating": 0,
+            "created": "2024-11-29T12:46:45.143Z",
+            "updated": "2024-11-29T15:22:31.646Z",
+            "meta": {
+                "wifi": true,
+                "parking": false,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "5",
+                "zip": null,
+                "country": "Test",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 1
+            }
+        },
+        {
+            "id": "dca75665-475a-4930-8270-5ff7ff95556a",
+            "name": "test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                    "alt": "test"
+                }
+            ],
+            "price": 1,
+            "maxGuests": 1,
+            "rating": 2,
+            "created": "2024-11-19T07:32:16.022Z",
+            "updated": "2024-11-19T07:35:48.481Z",
+            "meta": {
+                "wifi": false,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "oslo",
+                "zip": "",
+                "country": "",
+                "continent": "Europe",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 3
+            }
+        },
+        {
+            "id": "028e10cb-bbcb-4a74-ba07-bea251902104",
+            "name": "test",
+            "description": "asdfasdf",
+            "media": [
+                {
+                    "url": "https://google.com",
+                    "alt": "default alt"
+                }
+            ],
+            "price": 1,
+            "maxGuests": 1,
+            "rating": 1,
+            "created": "2024-09-28T08:23:27.360Z",
+            "updated": "2024-09-28T08:23:27.360Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "",
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "b9d3e2fa-a2da-430e-9b49-a3a23324fbf8",
+            "name": "test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                    "alt": "test"
+                }
+            ],
+            "price": 1,
+            "maxGuests": 1,
+            "rating": 1,
+            "created": "2024-11-18T08:27:38.587Z",
+            "updated": "2024-11-18T08:27:38.587Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": "",
+                "city": "",
+                "zip": "",
+                "country": "",
+                "continent": "Antarctica",
+                "lat": -82.86275189999999,
+                "lng": 135
+            },
+            "_count": {
+                "bookings": 0
+            }
+        },
+        {
+            "id": "99811fc4-b8f2-4a88-bfd4-9e55ce5a8f01",
+            "name": "test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/28987374/pexels-photo-28987374/free-photo-of-gamle-riga.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "alt": "test"
+                },
+                {
+                    "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                    "alt": "test"
+                }
+            ],
+            "price": 2,
+            "maxGuests": 3,
+            "rating": 5,
+            "created": "2024-11-19T14:28:59.369Z",
+            "updated": "2024-11-19T14:28:59.369Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "New York",
+                "zip": "",
+                "country": "United State",
+                "continent": "North America",
+                "lat": 40.7127753,
+                "lng": -74.0059728
+            },
+            "_count": {
+                "bookings": 2
+            }
+        },
+        {
+            "id": "e4120a36-7dd6-4cb9-9075-6bc83e724507",
+            "name": "test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://images.pexels.com/photos/28987374/pexels-photo-28987374/free-photo-of-gamle-riga.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "alt": "test"
+                }
+            ],
+            "price": 1,
+            "maxGuests": 1,
+            "rating": 0,
+            "created": "2024-11-19T08:42:40.925Z",
+            "updated": "2024-11-19T08:57:43.557Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": true
+            },
+            "location": {
+                "address": "",
+                "city": "bergen",
+                "zip": "",
+                "country": "",
+                "continent": "Europe",
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 4
+            }
+        },
+        {
+            "id": "b0a51837-ab60-43bc-827b-516d73a92aaf",
+            "name": "test",
+            "description": "test",
+            "media": [
+                {
+                    "url": "https://unsplash.com/photos/brown-wooden-lounge-chairs-near-pool-surrounded-by-palm-trees-vmIWr0NnpCQ",
+                    "alt": ""
+                }
+            ],
+            "price": 111,
+            "maxGuests": 1,
+            "rating": 0,
+            "created": "2024-12-02T16:47:14.102Z",
+            "updated": "2024-12-02T16:47:14.102Z",
+            "meta": {
+                "wifi": false,
+                "parking": false,
+                "breakfast": false,
+                "pets": false
+            },
+            "location": {
+                "address": null,
+                "city": "Los Angeles",
+                "zip": null,
+                "country": "USA",
+                "continent": null,
+                "lat": null,
+                "lng": null
+            },
+            "_count": {
+                "bookings": 9
+            }
+        }
+    ],
+    "meta": {
+        "isFirstPage": true,
+        "isLastPage": false,
+        "currentPage": 1,
+        "previousPage": null,
+        "nextPage": 2,
+        "pageCount": 4,
+        "totalCount": 350
+    }
+}

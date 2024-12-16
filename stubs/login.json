@@ -1,0 +1,18 @@
+{
+    "data": {
+        "name": "Carol_Cox",
+        "email": "carolcox@stud.noroff.no",
+        "bio": null,
+        "avatar": {
+            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+            "alt": "A blurry multi-colored rainbow background"
+        },
+        "banner": {
+            "url": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=500&w=1500",
+            "alt": "A blurry multi-colored rainbow background"
+        },
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQ2Fyb2xfQ294IiwiZW1haWwiOiJjYXJvbGNveEBzdHVkLm5vcm9mZi5ubyIsImlhdCI6MTczNDM0NTk5NX0.yhA39oSirKh1e1JamXd2547yQE8hwI42bv5woXLmQQQ",
+        "venueManager": false
+    },
+    "meta": {}
+}

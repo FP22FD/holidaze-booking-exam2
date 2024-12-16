@@ -1,0 +1,446 @@
+{
+    "data": {
+        "name": "Emy_Emerson",
+        "email": "emyemerson@stud.noroff.no",
+        "bio": "Bassed in Oslo, Norway, I manage unique stays worldwide. From cozy cabins to luxurious retreats, I’m passionate about creating unforgettable guest experiences.",
+        "avatar": {
+            "url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "My nice avatar image"
+        },
+        "banner": {
+            "url": "https://images.unsplash.com/photo-1507691754536-1d2b755da326?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+            "alt": "My banner"
+        },
+        "venueManager": true,
+        "venues": [
+            {
+                "id": "607f107a-1201-4511-9804-10a5075e8c75",
+                "name": "Hotel Emy Emerson Red Star",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "media": [
+                    {
+                        "url": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcndheXxlbnwwfHwwfHx8MA%3D%3D",
+                        "alt": "alt image"
+                    }
+                ],
+                "price": 986,
+                "maxGuests": 8,
+                "rating": 3,
+                "created": "2024-10-18T23:44:04.977Z",
+                "updated": "2024-12-07T18:03:58.985Z",
+                "meta": {
+                    "wifi": true,
+                    "parking": true,
+                    "breakfast": true,
+                    "pets": true
+                },
+                "location": {
+                    "address": "",
+                    "city": "",
+                    "zip": "",
+                    "country": "",
+                    "continent": "",
+                    "lat": 90,
+                    "lng": 180
+                }
+            }
+        ],
+        "bookings": [
+            {
+                "id": "a9c0bf71-7fa5-436d-89c4-d7f4b0c02a59",
+                "dateFrom": "2024-11-05T22:42:17.615Z",
+                "dateTo": "2024-11-10T20:24:17.615Z",
+                "guests": 1,
+                "created": "2024-11-01T10:36:28.996Z",
+                "updated": "2024-11-01T10:36:28.996Z",
+                "venue": {
+                    "id": "607f107a-1201-4511-9804-10a5075e8c75",
+                    "name": "Hotel Emy Emerson Red Star",
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                    "media": [
+                        {
+                            "url": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcndheXxlbnwwfHwwfHx8MA%3D%3D",
+                            "alt": "alt image"
+                        }
+                    ],
+                    "price": 986,
+                    "maxGuests": 8,
+                    "rating": 3,
+                    "created": "2024-10-18T23:44:04.977Z",
+                    "updated": "2024-12-07T18:03:58.985Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 90,
+                        "lng": 180
+                    }
+                }
+            },
+            {
+                "id": "404b7f12-651d-4aa9-ad86-b0767647da17",
+                "dateFrom": "2024-12-16T23:00:00.000Z",
+                "dateTo": "2024-12-18T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-03T09:54:24.281Z",
+                "updated": "2024-12-03T09:54:24.281Z",
+                "venue": {
+                    "id": "59221c30-3ff3-4d1b-ba16-7187ae745b1b",
+                    "name": "Zulu",
+                    "description": "A retreat hotel want to create a website for both a individual customers and business customers. They want separate profiles but  under one name.",
+                    "media": [
+                        {
+                            "url": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                            "alt": "default alt"
+                        }
+                    ],
+                    "price": 1599,
+                    "maxGuests": 5,
+                    "rating": 5,
+                    "created": "2024-09-29T19:31:39.426Z",
+                    "updated": "2024-09-29T19:31:39.426Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 0,
+                        "lng": 0
+                    }
+                }
+            },
+            {
+                "id": "6f50a81e-aa04-4157-8e8e-1cc5716fc4dc",
+                "dateFrom": "2024-12-07T23:00:00.000Z",
+                "dateTo": "2024-12-08T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:07:45.835Z",
+                "updated": "2024-12-07T17:07:45.835Z",
+                "venue": {
+                    "id": "052b6dd5-58b5-453a-a712-589a6b91855b",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 5,
+                    "created": "2024-11-15T11:30:41.894Z",
+                    "updated": "2024-11-15T11:30:41.894Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "trondheim",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 63.4305149,
+                        "lng": 10.3950528
+                    }
+                }
+            },
+            {
+                "id": "9cbf59aa-cabe-416b-b405-8aaa53a817ff",
+                "dateFrom": "2025-01-10T22:42:17.615Z",
+                "dateTo": "2025-01-20T20:24:17.615Z",
+                "guests": 2,
+                "created": "2024-12-02T13:03:12.683Z",
+                "updated": "2024-12-02T13:03:12.683Z",
+                "venue": {
+                    "id": "607f107a-1201-4511-9804-10a5075e8c75",
+                    "name": "Hotel Emy Emerson Red Star",
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                    "media": [
+                        {
+                            "url": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcndheXxlbnwwfHwwfHx8MA%3D%3D",
+                            "alt": "alt image"
+                        }
+                    ],
+                    "price": 986,
+                    "maxGuests": 8,
+                    "rating": 3,
+                    "created": "2024-10-18T23:44:04.977Z",
+                    "updated": "2024-12-07T18:03:58.985Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 90,
+                        "lng": 180
+                    }
+                }
+            },
+            {
+                "id": "fcaba9a5-ef6e-40d2-bb13-1c44ee2be19a",
+                "dateFrom": "2024-12-09T23:00:00.000Z",
+                "dateTo": "2024-12-10T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:08:15.354Z",
+                "updated": "2024-12-07T17:08:15.354Z",
+                "venue": {
+                    "id": "052b6dd5-58b5-453a-a712-589a6b91855b",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 5,
+                    "created": "2024-11-15T11:30:41.894Z",
+                    "updated": "2024-11-15T11:30:41.894Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "trondheim",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 63.4305149,
+                        "lng": 10.3950528
+                    }
+                }
+            },
+            {
+                "id": "eb8d3b10-d062-4af9-b33a-3ed2b528127d",
+                "dateFrom": "2024-12-11T23:00:00.000Z",
+                "dateTo": "2024-12-12T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:10:30.971Z",
+                "updated": "2024-12-07T17:10:30.971Z",
+                "venue": {
+                    "id": "052b6dd5-58b5-453a-a712-589a6b91855b",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 5,
+                    "created": "2024-11-15T11:30:41.894Z",
+                    "updated": "2024-11-15T11:30:41.894Z",
+                    "meta": {
+                        "wifi": true,
+                        "parking": true,
+                        "breakfast": true,
+                        "pets": true
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "trondheim",
+                        "zip": "",
+                        "country": "",
+                        "continent": "",
+                        "lat": 63.4305149,
+                        "lng": 10.3950528
+                    }
+                }
+            },
+            {
+                "id": "ba084e1a-8cf4-48b4-a8be-a34b806c4cfa",
+                "dateFrom": "2024-12-22T23:00:00.000Z",
+                "dateTo": "2024-12-25T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:19:29.804Z",
+                "updated": "2024-12-07T17:19:29.804Z",
+                "venue": {
+                    "id": "0c4d5fec-7409-45c1-bef3-36c33688d645",
+                    "name": "ZZZZZZZZZZZZZZZKEBAB",
+                    "description": "POLSKA GUROM",
+                    "media": [
+                        {
+                            "url": "https://plus.unsplash.com/premium_photo-1674596362106-521274d9e3d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.PNG",
+                            "alt": "Venue Image"
+                        }
+                    ],
+                    "price": 1410,
+                    "maxGuests": 3,
+                    "rating": 0,
+                    "created": "2024-11-29T23:48:47.580Z",
+                    "updated": "2024-11-29T23:48:47.580Z",
+                    "meta": {
+                        "wifi": false,
+                        "parking": false,
+                        "breakfast": false,
+                        "pets": false
+                    },
+                    "location": {
+                        "address": null,
+                        "city": "ZZZZZPOLANDIA",
+                        "zip": null,
+                        "country": null,
+                        "continent": null,
+                        "lat": null,
+                        "lng": null
+                    }
+                }
+            },
+            {
+                "id": "5f369de9-44a8-47b7-991f-d96ba54c39c8",
+                "dateFrom": "2024-12-09T23:00:00.000Z",
+                "dateTo": "2024-12-10T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:35:32.427Z",
+                "updated": "2024-12-07T17:35:32.427Z",
+                "venue": {
+                    "id": "dca75665-475a-4930-8270-5ff7ff95556a",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 2,
+                    "created": "2024-11-19T07:32:16.022Z",
+                    "updated": "2024-11-19T07:35:48.481Z",
+                    "meta": {
+                        "wifi": false,
+                        "parking": true,
+                        "breakfast": false,
+                        "pets": false
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "oslo",
+                        "zip": "",
+                        "country": "",
+                        "continent": "Europe",
+                        "lat": null,
+                        "lng": null
+                    }
+                }
+            },
+            {
+                "id": "ecc428df-6247-472c-9701-891156464c89",
+                "dateFrom": "2024-12-12T23:00:00.000Z",
+                "dateTo": "2024-12-13T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:36:28.486Z",
+                "updated": "2024-12-07T17:36:28.486Z",
+                "venue": {
+                    "id": "dca75665-475a-4930-8270-5ff7ff95556a",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 2,
+                    "created": "2024-11-19T07:32:16.022Z",
+                    "updated": "2024-11-19T07:35:48.481Z",
+                    "meta": {
+                        "wifi": false,
+                        "parking": true,
+                        "breakfast": false,
+                        "pets": false
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "oslo",
+                        "zip": "",
+                        "country": "",
+                        "continent": "Europe",
+                        "lat": null,
+                        "lng": null
+                    }
+                }
+            },
+            {
+                "id": "d1d8047c-b652-4fd8-8b1b-ba51243229d0",
+                "dateFrom": "2024-12-15T23:00:00.000Z",
+                "dateTo": "2024-12-16T23:00:00.000Z",
+                "guests": 1,
+                "created": "2024-12-07T17:53:06.942Z",
+                "updated": "2024-12-07T17:53:06.942Z",
+                "venue": {
+                    "id": "dca75665-475a-4930-8270-5ff7ff95556a",
+                    "name": "test",
+                    "description": "test",
+                    "media": [
+                        {
+                            "url": "https://img.freepik.com/free-vector/travel-pattern-with-elements-dash-lines_23-2148047649.jpg?t=st=1730980748~exp=1730984348~hmac=dcc18bc36d11c3f504db47741d7272999515e03cbbbf03611d49ff2297e2ec10&w=1380",
+                            "alt": "test"
+                        }
+                    ],
+                    "price": 1,
+                    "maxGuests": 1,
+                    "rating": 2,
+                    "created": "2024-11-19T07:32:16.022Z",
+                    "updated": "2024-11-19T07:35:48.481Z",
+                    "meta": {
+                        "wifi": false,
+                        "parking": true,
+                        "breakfast": false,
+                        "pets": false
+                    },
+                    "location": {
+                        "address": "",
+                        "city": "oslo",
+                        "zip": "",
+                        "country": "",
+                        "continent": "Europe",
+                        "lat": null,
+                        "lng": null
+                    }
+                }
+            }
+        ],
+        "_count": {
+            "venues": 1,
+            "bookings": 10
+        }
+    },
+    "meta": {}
+}

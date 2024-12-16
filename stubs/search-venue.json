@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": "6244533e-250b-456d-8aae-7c21e27db855",
+            "name": "Titanic Mardan Palace",
+            "description": "Titanic Mardan Palace welcomes you with its 5-star privilege, award-winning services and picturesque location in the unique nature of the Mediterranean.",
+            "media": [
+                {
+                    "url": "https://image-tc.galaxy.tf/wijpeg-cv8mwva1bvbck8n7jwhp8p9wv/01-titanic-mardan-palace-general-view_standard.jpg?crop=196%2C0%2C1529%2C1147",
+                    "alt": "Titanic Mardan Palace"
+                }
+            ],
+            "price": 200,
+            "maxGuests": 100,
+            "rating": 5,
+            "created": "2024-09-26T07:42:24.900Z",
+            "updated": "2024-09-26T07:44:54.513Z",
+            "meta": {
+                "wifi": true,
+                "parking": true,
+                "breakfast": true,
+                "pets": true
+            },
+            "location": {
+                "address": null,
+                "city": "Antalya",
+                "zip": null,
+                "country": "Turkey",
+                "continent": null,
+                "lat": 0,
+                "lng": 0
+            },
+            "_count": {
+                "bookings": 4
+            }
+        }
+    ],
+    "meta": {
+        "isFirstPage": true,
+        "isLastPage": true,
+        "currentPage": 1,
+        "previousPage": null,
+        "nextPage": null,
+        "pageCount": 1,
+        "totalCount": 1
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "data": {
+        "id": "b562489e-17b3-4457-96a4-5762659011d4",
+        "name": "Hotel Emy Emerson Blue Star",
+        "description": "The best Hotel in your city",
+        "media": [
+            {
+                "url": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?q=80&w=3548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "alt": "alt image"
+            }
+        ],
+        "price": 998,
+        "maxGuests": 20,
+        "rating": 4,
+        "created": "2024-12-16T11:13:35.117Z",
+        "updated": "2024-12-16T11:13:35.117Z",
+        "meta": {
+            "wifi": true,
+            "parking": false,
+            "breakfast": true,
+            "pets": true
+        },
+        "location": {
+            "address": "string",
+            "city": "Oslo",
+            "zip": "string",
+            "country": "Norway",
+            "continent": "string",
+            "lat": 90,
+            "lng": 180
+        },
+        "_count": {
+            "bookings": 0
+        }
+    },
+    "meta": {}
+}

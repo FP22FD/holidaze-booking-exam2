@@ -1,0 +1,17 @@
+{
+    "data": {
+        "name": "Carol_Curtis",
+        "email": "carolcurtis@stud.noroff.no",
+        "bio": "My manager bio",
+        "avatar": {
+            "url": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "alt": "Author image"
+        },
+        "banner": {
+            "url": "https://images.unsplash.com/photo-1507691754536-1d2b755da326?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=80&h=400&w=400",
+            "alt": "my banner"
+        },
+        "venueManager": true
+    },
+    "meta": {}
+}
